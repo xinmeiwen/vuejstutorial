@@ -12,7 +12,7 @@
                 <div>
                     {{ range .Pages }}
                     <div class="item">
-                        <a href="{{ .URL }}" class="name">{{ .Title }}</a>
+                        <a href="/{{ .URL }}" class="name">{{ .Title }}</a>
                         <span class="tags">
                             {{ range .Params.tags }}
                             <a href="/tags/{{ . }}">{{ . }}</a>
