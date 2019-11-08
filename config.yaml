@@ -1,5 +1,5 @@
-baseURL: https://tutorials.drone.io
-title: Drone Tutorials
+baseURL: https://vuejstutorial.com
+title: Vuejs Tutorial
 theme: default
 
 taxonomies:
@@ -8,7 +8,7 @@ taxonomies:
 pygmentsUseClasses: true
 pygmentsCodefences: true
 
-googleAnalytics: "UA-34247933-5"
+googleAnalytics: "UA-34244433-5"
 
 outputs:
   home: ["HTML", "JSON"]
