@@ -17,11 +17,6 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/node
-  label: Node
-  create: all
-  match: "**/*"
-- type: directory
   path: content/golang
   label: Golang
   create: all
