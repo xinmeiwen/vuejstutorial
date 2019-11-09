@@ -26,3 +26,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/large-scale-vue-js-application-boilerplate-vuex.md
