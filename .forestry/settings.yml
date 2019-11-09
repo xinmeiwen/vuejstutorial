@@ -22,11 +22,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/rust
-  label: Rust
-  create: all
-  match: "**/*"
-- type: directory
   path: content/python
   label: Python
   create: all
