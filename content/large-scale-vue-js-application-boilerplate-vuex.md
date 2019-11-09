@@ -1,5 +1,5 @@
 +++
-author = "Frank"
+author = "arunredhu"
 date = 2019-11-08T16:00:00Z
 featured = false
 image = ""
@@ -9,6 +9,8 @@ title = "Large scale Vue.js application boilerplate + Vuex"
 url = ""
 
 +++
+This boilerplate is built on the top of Vue CLI 3.0. This provides an architecture which helps to write a flexible & modular large scale appliction with Vue.js
+
 # Vue.js boilerplate
 
 This boilerplate is built on the top of Vue CLI 3.0. This provides an architecture which helps to write a flexible & modular large scale appliction with Vue.js
