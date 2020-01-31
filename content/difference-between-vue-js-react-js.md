@@ -4,7 +4,7 @@ date = 2020-01-30T16:00:00Z
 featured = true
 image = "/uploads/Vue.js-vs-React.js-Who-will-be-the-Best-JavaScript-Framework.jpg"
 keywords = []
-tags = []
+tags = ["Vue"]
 title = "Difference between Vue.js & React.js"
 url = ""
 
