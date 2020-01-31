@@ -1,7 +1,7 @@
 +++
 author = "Frank"
 date = 2020-01-30T16:02:00Z
-featured = true
+featured = false
 image = "/uploads/VUED.jpg"
 keywords = ["Vue"]
 tags = ["Vue"]
@@ -25,15 +25,14 @@ The VueJs can be used in three different ways those are listed below:
 
 1. For learning purpose, you can use below script(with the specific version):
 
-   > _<script src=”https://cdn.jsdelivr.net/npm/vue/dist/vue.js”></script>_
+`<script src=”https://cdn.jsdelivr.net/npm/vue/dist/vue.js”></script>`
 2. For production purpose, you can use below script:
-
-   > _<script src=”https://cdn.jsdelivr.net/npm/vue@2.6.11″></script>_
+`<script src=”https://cdn.jsdelivr.net/npm/vue@2.6.11″></script>`
 3. For ES modules compatible, use below script:
 
-   > _<script type=”module”>  
-   > import Vue from ‘https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.esm.browser.js’  
-   > </script>_
+> _<script type=”module”>  
+> import Vue from ‘https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.esm.browser.js’  
+> </script>_
 
 # **Install through the npm:** 
 
