@@ -6,7 +6,7 @@ image = "/uploads/VUE.jpg"
 keywords = []
 tags = ["vue"]
 title = "Difference between Vue.JS & Angular.JS"
-url = "Difference between VueJS & AngularJS"
+url = "Difference-between-VueJS-AngularJS"
 
 +++
 VueJS is a great framework it has many improvements in terms of AngularJS, it is good at single page application also good at smaller application, but there is a huge competition between VueJS and AngularJS.
