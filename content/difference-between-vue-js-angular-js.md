@@ -4,7 +4,7 @@ date = 2020-01-30T16:01:00Z
 featured = true
 image = "/uploads/VUE.jpg"
 keywords = []
-tags = ["Vue"]
+tags = []
 title = "Difference between Vue.JS & Angular.JS"
 url = ""
 
