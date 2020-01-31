@@ -1,9 +1,8 @@
 +++
 author = "Frank"
 date = 2020-01-30T16:01:00Z
-draft = true
 featured = true
-image = ""
+image = "/uploads/VUE.jpg"
 keywords = []
 tags = ["Vue"]
 title = "Difference between Vue.JS & Angular.JS"
