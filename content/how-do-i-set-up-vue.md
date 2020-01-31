@@ -3,8 +3,8 @@ author = "Frank"
 date = 2020-01-30T16:02:00Z
 featured = false
 image = "/uploads/VUED.jpg"
-keywords = ["Vue"]
-tags = ["Vue"]
+keywords = []
+tags = []
 title = "How do I set up Vue?"
 url = ""
 
