@@ -6,7 +6,7 @@ image = "/uploads/VUED.jpg"
 keywords = []
 tags = ["vue"]
 title = "How do I set up Vue?"
-url = "How-do-I set-up-Vue"
+url = "How-do-I-set-up-Vue"
 
 +++
 VueJS is one of the best frameworks for JavaScript like ReactJS. The VueJS is used to design the user interface layer, it is easy to pick up for any developers. It is compatible with other libraries and extensions as well. If you want to create a single page application then VueJS is the first choice in my opinion. In the development filed there may be so many issues that can not be solved by using a single library, so the VueJS is compatible with other libraries so you can easily go for it. The VueJS is supported by all popular browsers like Chrome, Firefox, IE, Safari, etc. You can easily compare this library with your favorite libraries.
