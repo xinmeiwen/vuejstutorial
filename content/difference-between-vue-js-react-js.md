@@ -6,7 +6,7 @@ image = "/uploads/Vue.js-vs-React.js-Who-will-be-the-Best-JavaScript-Framework.j
 keywords = []
 tags = ["Vue"]
 title = "Difference between Vue.js & React.js"
-url = "Difference between Vue.js & React.js"
+url = "Difference-between-Vue-js-React-js"
 
 +++
 Vue.js is a JavaScript front-end framework. It was released on February 2014 by Evan You. With the assistance of Vue.js, web UI improvements can be progressively responsive.  
