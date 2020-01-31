@@ -4,7 +4,7 @@ date = 2020-01-30T16:02:00Z
 featured = false
 image = "/uploads/VUED.jpg"
 keywords = []
-tags = []
+tags = ["vue"]
 title = "How do I set up Vue?"
 url = ""
 
