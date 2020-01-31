@@ -9,6 +9,9 @@ title = "Difference between Vue.js & React.js"
 url = ""
 
 +++
+Vue.js is a JavaScript front-end framework. It was released on February 2014 by Evan You. With the assistance of Vue.js, web UI improvements can be progressively responsive.  
+<!--more-->
+
 # **What is ReactJS?**
 
   
@@ -40,5 +43,3 @@ Vue.js is a JavaScript front-end framework. It was released on February 2014 by 
 | It is backed by Facebook. | It is backed by Laravel and Alibaba. |
 | In React JS State Management Library is called MobX. | In Vue JS State Management Library is called VueX. |
 | Used by PayPal, Netflix, Airbnb, Instagram, etc. | Used by Alibaba, GitLab, Trustpilot, etc. |
-
-## 
