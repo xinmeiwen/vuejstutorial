@@ -30,14 +30,14 @@ VueJS is a great framework it has many improvements in terms of AngularJS, it is
 * **Directives:** VueJS has built-in directives that are utilized to perform different activities on the frontend. Example _v-else_, _v-show_, _v-on_, etc.
 
 
-  | ANGULARJS | VUEJS |
-  | --- | --- |
-  | AngularJS is an open source framework for the client side. | VueJS is an open source framework and progressive for building user interfaces. |
-  | It was released in February 2012( originally developed in 2008-2009 ). | It was released in February 2014. |
-  | Suitable for making large scale applications. | Suitable for making single-page applications. |
-  | Projects developed in Angular JS can’t be changed over to Angular 2 because of core contrasts. | It has Backward compatibility. |
-  | It is based on MVC (Model View Controller). | It is based on Virtual DOM (Document Object Model). |
-  | Fast and average pace for front-end development. | Lighter and faster than AngularJS. |
-  | Used by Google, Forbes, etc. | Used by Alibaba, GitLab, etc. |
-  | Not excessively simple to begin working with other existing projects. | Can be effectively converged with different projects with no issues. |
-  | It is already highly well known. | It’s Popularity is increasing. |
+| ANGULARJS | VUEJS |
+| --- | --- |
+| AngularJS is an open source framework for the client side. | VueJS is an open source framework and progressive for building user interfaces. |
+| It was released in February 2012( originally developed in 2008-2009 ). | It was released in February 2014. |
+| Suitable for making large scale applications. | Suitable for making single-page applications. |
+| Projects developed in Angular JS can’t be changed over to Angular 2 because of core contrasts. | It has Backward compatibility. |
+| It is based on MVC (Model View Controller). | It is based on Virtual DOM (Document Object Model). |
+| Fast and average pace for front-end development. | Lighter and faster than AngularJS. |
+| Used by Google, Forbes, etc. | Used by Alibaba, GitLab, etc. |
+| Not excessively simple to begin working with other existing projects. | Can be effectively converged with different projects with no issues. |
+| It is already highly well known. | It’s Popularity is increasing. |
