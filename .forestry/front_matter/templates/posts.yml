@@ -29,4 +29,5 @@ fields:
 pages:
 - content/difference-between-vue-js-angular-js.md
 - content/difference-between-vue-js-react-js.md
+- content/how-do-i-set-up-vue.md
 - content/large-scale-vue-js-application-boilerplate-vuex.md
