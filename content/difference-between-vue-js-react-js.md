@@ -9,19 +9,22 @@ title = "Difference between Vue.js & React.js"
 url = ""
 
 +++
-**What is ReactJS?**  
+# **What is ReactJS?**
+
+  
 ReactJS is an open-source JavaScript library created by Facebook which is used to deal with the view layer for both Web and Mobile applications. It can be provided on the server-side along with working on the client-side.
 
-**Features of ReactJS:**
+# **Features of ReactJS:**
 
 * **Scalability:** It is reasonable for enormous scale applications because of its adaptable structure and scalability.
 * **Rich JavaScript Library:** Developers from everywhere throughout the world are placing in an exertion to include significantly more features.
 * **Code Reusability:** It enables the developers to reuse the code components of different levels while working on the project.
 
-**What is Vue.js?**  
+# **What is Vue.js?**
+
 Vue.js is a JavaScript front-end framework. It was released on February 2014 by Evan You. With the assistance of Vue.js, web UI improvements can be progressively responsive.
 
-**Features of Vue.js:**
+# **Features of Vue.js:**
 
 * **Adaptability:** It gives bother free migration, basic and efficient structure.
 * **Components:** They help in creating custom elements that can be reused in HTML.
