@@ -1,7 +1,7 @@
 +++
 author = "Frank"
 date = 2020-01-30T16:02:00Z
-featured = false
+featured = true
 image = "/uploads/VUED.jpg"
 keywords = ["Vue"]
 tags = ["Vue"]
