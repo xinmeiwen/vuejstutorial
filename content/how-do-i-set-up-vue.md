@@ -11,7 +11,7 @@ url = ""
 +++
 VueJS is one of the best frameworks for JavaScript like ReactJS. The VueJS is used to design the user interface layer, it is easy to pick up for any developers. It is compatible with other libraries and extensions as well. If you want to create a single page application then VueJS is the first choice in my opinion. In the development filed there may be so many issues that can not be solved by using a single library, so the VueJS is compatible with other libraries so you can easily go for it. The VueJS is supported by all popular browsers like Chrome, Firefox, IE, Safari, etc. You can easily compare this library with your favorite libraries.
 
-# **Installation of VueJS:** 
+# **Installation of VueJS:**
 
 The VueJs can be used in three different ways those are listed below:
 
@@ -26,15 +26,21 @@ The VueJs can be used in three different ways those are listed below:
 1. For learning purpose, you can use below script(with the specific version):
 
 `<script src=”https://cdn.jsdelivr.net/npm/vue/dist/vue.js”></script>`
-2. For production purpose, you can use below script:
+
+
+2\. For production purpose, you can use below script:
+
+
 `<script src=”https://cdn.jsdelivr.net/npm/vue@2.6.11″></script>`
-3. For ES modules compatible, use below script:
+
+
+3\. For ES modules compatible, use below script:
 
 > _<script type=”module”>  
 > import Vue from ‘https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.esm.browser.js’  
 > </script>_
 
-# **Install through the npm:** 
+# **Install through the npm:**
 
 Before applying this procedure you must have installed npm, to check npm installed or not run the below command:
 
@@ -46,7 +52,7 @@ Now you are ready to install the VueJS, to do so run the below command. It will 
 
 ![](/uploads/Screenshot-from-2020-01-19-00-26-44.png)
 
-# **By CLI use VueJS:** 
+# **By CLI use VueJS:**
 
 Open your terminal or command prompt and run the below command.
 
